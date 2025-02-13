@@ -142,7 +142,7 @@ function GlutenFreeContent() {
           </div>
           <div>
             <h4 className="text-base text-gray-800 mb-0.5">
-              Maíz Colombian Street Food
+              Maiz Colombian Street Food
             </h4>
             <p className="text-sm text-[#1E1E1E] opacity-80 leading-tight">
               Latin American
@@ -245,7 +245,7 @@ function GlutenFreeContent() {
         </h3>
         <div className="space-y-3">
           <div>
-            <h4 className="text-base text-gray-800 mb-0.5">Roasty's Cafe</h4>
+            <h4 className="text-base text-gray-800 mb-0.5">Roastys Cafe</h4>
             <p className="text-sm text-[#1E1E1E] opacity-80 leading-tight">
               Cafe
             </p>
